@@ -1,2 +1,2 @@
 # Web-Scrapping-with-beautiful-soup.
-Data gathering using python
+An attempted Data gathering using python and beautiful soup
